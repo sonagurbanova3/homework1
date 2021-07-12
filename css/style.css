@@ -19,7 +19,7 @@ nav a {
   color: #fff;
 }
 nav li {
-  list-style-image: url(/img/1f536.png);
+  list-style-image: url(../img/1f536.png);
 }
 .menu-list {
   display: flex;
